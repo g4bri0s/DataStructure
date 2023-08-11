@@ -1,4 +1,4 @@
-package recursionList1;
+package recursionList1.exercises;
 
 public class exercise1 {
 
