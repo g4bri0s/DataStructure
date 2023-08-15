@@ -1,6 +1,6 @@
-package recursionList1.controllers;
+package recursionList1.views;
 
-import recursionList1.exercises.exercise1;
+import recursionList1.controllers.exercise1;
 
 public class controllerExec1 {
 
