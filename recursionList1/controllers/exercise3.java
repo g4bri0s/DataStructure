@@ -1,4 +1,4 @@
-package recursionList1.exercises;
+package recursionList1.controllers;
 
 public class exercise3 {
 
