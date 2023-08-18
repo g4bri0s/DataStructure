@@ -8,7 +8,7 @@ public class controllerExec4 {
 
         exercise4 exercise4 = new exercise4();
 
-        int convertToBinary = exercise4.convertToBinary(50505);
+        String convertToBinary = exercise4.convertToBinaryString(50505);
 
         System.out.println("Int em binario: " + convertToBinary);
     }
