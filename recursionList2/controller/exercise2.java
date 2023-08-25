@@ -1,4 +1,4 @@
-package recursionList2.controllers;
+package recursionList2.controller;
 
 public class exercise2 {
 
@@ -8,8 +8,8 @@ public class exercise2 {
 
     public int dividingSubtractions(int a, int b) {
 
-        // quando o a for menor que b, a recurs�o para
-        if (b > a ) {
+        // quando o a for menor que b, a recurs�o para
+        if (b > a) {
             return 0;
         }
         // a recusão é chamada novamente, decrementando o b

@@ -1,4 +1,4 @@
-package recursionList2.controllers;
+package recursionList2.controller;
 
 public class exercise1 {
 
@@ -8,7 +8,7 @@ public class exercise1 {
 
     public int multiplieSums(int a, int b) {
 
-        // quando o b chegar a 0, a recurssão para
+        // quando o b chegar a 0, a recurssï¿½o para
         if (b <= 0) {
             return 0;
         }
