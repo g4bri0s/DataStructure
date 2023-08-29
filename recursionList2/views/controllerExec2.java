@@ -1,6 +1,6 @@
 package recursionList2.views;
 
-import recursionList2.controllers.exercise2;
+import recursionList2.controller.exercise2;
 
 public class controllerExec2 {
     public static void main(String[] args) throws InterruptedException {

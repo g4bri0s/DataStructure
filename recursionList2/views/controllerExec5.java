@@ -1,6 +1,6 @@
 package recursionList2.views;
 
-import recursionList2.controllers.exercise5;
+import recursionList2.controller.exercise5;
 
 public class controllerExec5 {
 
